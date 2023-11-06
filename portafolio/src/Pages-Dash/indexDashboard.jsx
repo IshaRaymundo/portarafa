@@ -1,15 +1,15 @@
-import React, { useState, useEffect } from "react";
+// import React, { } from "react";
 
 
 
-function IndexDashboard() {
-  return (
+// function IndexDashboard() {
+//   return (
     
-  <div>
-    <h1>Hola</h1>
-  </div> 
+//   <div>
+//     <h1>Hola</h1>
+//   </div> 
     
-  );
-}
+//   );
+// }
 
-export default IndexDashboard;
+// export default IndexDashboard;
